@@ -33,10 +33,9 @@ export default function SectionHeading() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="sm:text-center">
           <h2 className="text-lg font-semibold leading-8 text-indigo-600">About Us</h2>
-          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">A better way collection</p>
+          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Story</p>
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-gray-600">
-            Lorem ipsum dolor sit amet consect adipisicing elit. Possimus magnam voluptatum cupiditate veritatis in
-            accusamus quisquam.
+          pada saat itu, kita bukan sepenuhnya 2 orang asing yang gak saling kenal karena pada dasarnya kita tetanggaan. tetangga yang jarang banget nyapa bahkan mungkin gapernah, rumah kita tuh padahal deket banget mungkin cuma 500 m. nah dulu kita pernah ikut satu kegiatan bareng, kegiatan kecil-kecilan kaya lomba gerak jalan gitu tapi tingkat RT wkwk dan dari situ kita kenal satu sama lain tapi waktu itu kita deket enggak lama karena kita beda sekolah, ya pada saat itu kita masih SMA jadi ya sibuk dengan urusan masing-masing dan pastinya punya pacar masing-masing, dan setelah lulus SMA kita enggak pernah ketemu lagi. setelah berabad-abad, wkwk enggak bercanda, setelah bertahun-tahun kita ketemu di salah satu kegiatan lagi, kita berdua diminta buat jadi MC di salah satu kegiatan RT yaitu 17 Agustusan biasalah lomba-lomba gitu, kita juga ikut di acara karnaval se-RW dan dari situ kita mulai deket lagi. perjalanan dimulai ketika aku main ke bandung.
           </p>
         </div>
 

@@ -1,4 +1,6 @@
 import React from 'react'
+import AlbumGalery from '../components/album-galery'
+import FooterEnd from '../components/footer-end'
 import HeaderBanner from '../components/header-banner'
 import Navbar from '../components/navbar'
 import SectionHeading from '../components/section-heading'
@@ -12,6 +14,8 @@ export default function Home() {
     <SimpleCentered />
     </div>
     <SectionHeading />
+    <AlbumGalery />
+    <FooterEnd />
     </>
   )
 }
