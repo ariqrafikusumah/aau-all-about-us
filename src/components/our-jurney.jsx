@@ -6,7 +6,7 @@ import {
   TabPanel,
 } from "@material-tailwind/react";
 
-export default function Example() {
+export default function OurJourney() {
   const data = [
     {
       label: "Chapter 1",
@@ -28,15 +28,15 @@ export default function Example() {
     },
 
     {
-      label: "Angular",
-      value: "angular",
+      label: "Title",
+      value: "sub",
       desc: `Because it's about motivating the doers. Because I'm here
         to follow my dreams and inspire other people to follow their dreams, too.`,
     },
 
     {
-      label: "Svelte",
-      value: "svelte",
+      label: "Title",
+      value: "Sub",
       desc: `We're not always in the position that we want to be at.
         We're constantly growing. We're constantly making mistakes. We're 
         constantly trying to express ourselves and actualize our dreams.`,
